@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=cplusplus&label=&color=00599C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="C++ logo"  />
   <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="typescript logo"  />
   <img src="https://img.shields.io/static/v1?message=Ruby&logo=ruby&label=&color=CC342D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ruby logo"  />
+<img src="https://img.shields.io/static/v1?message=C%23&logo=csharp&label=&color=239120&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="C# logo" />
 </div>
 
 <div align="left">
