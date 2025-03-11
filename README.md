@@ -2,16 +2,27 @@
   <img src="https://github.com/user-attachments/assets/e635a9a0-7b44-44d7-b300-e6d2aeddab71" alt="anonymByte-404 ASCII Art" />
 </p>
 
-<h1>Hi there! 👋</h1>
+<h1 align="center">Hi there! 👋 I'm Aeron Asug</h1>
 
-<p>I'm <b>Aeron Asug</b>, an aspiring software engineer with a passion for building innovative solutions. Let's explore the world of programming together!</p>
+<p align="center">
+  <b>Aspiring Software Engineer | Problem Solver | Open-Source Enthusiast</b>
+</p>
 
-<h2>About Me</h2>
+<p align="center">
+  Welcome to my GitHub profile! I'm passionate about building innovative solutions and exploring the endless possibilities of programming. Let's create something amazing together! 🚀
+</p>
 
-<p>I'm currently on a journey to enhance my skills in software development, focusing on creating efficient and impactful applications. Based in an undisclosed location, I enjoy collaborating on exciting projects and contributing to open-source communities.</p>
+<hr>
 
-<h2>Skills & Technologies</h2>
+<h2>🚀 About Me</h2>
 
+<p>I'm an aspiring software engineer with a strong drive to learn and grow in the world of technology. I thrive on solving complex problems and creating efficient, scalable, and impactful applications. Based in an undisclosed location 🌍, I enjoy collaborating on exciting projects, contributing to open-source communities, and continuously expanding my skill set.</p>
+
+<hr>
+
+<h2>🛠️ Skills & Technologies</h2>
+
+<h3>Programming Languages</h3>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=306998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="python logo"  />
   <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />
@@ -26,6 +37,7 @@
   <img src="https://img.shields.io/static/v1?message=Batch%20Script&logo=windows-terminal&label=&color=00A4EF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="batch script logo" />
 </div>
 
+<h3>Frameworks & Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="react logo"  />
   <img src="https://img.shields.io/static/v1?message=Vue&logo=vue.js&label=&color=4FC08D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="vue logo"  />
@@ -42,7 +54,11 @@
   <img src="https://img.shields.io/static/v1?message=Gradle&logo=gradle&label=&color=02303A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gradle logo"  />
 </div>
 
-<h2>Top Project</h2>
+<hr>
+
+<h2>🌟 Top Projects</h2>
+
+Here are some of my favorite projects I've worked on:
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7ad2e21d-8839-46fe-877b-fa996770e0f2" height="150" />
@@ -51,14 +67,29 @@
   <img src="https://github.com/user-attachments/assets/4906e910-7eb0-423f-a8df-433a74e51bfe" height="150"/>
 </div>
 
-<h2>Latest Blog Post</h2>
+<hr>
 
-<p>Currently, I do not have any blog posts, but stay tuned for updates in the future!</p>
+<h2>📝 Latest Blog Post</h2>
 
-<h2>Connect with Me</h2>
+<p>I'm currently working on some exciting content for my blog. Stay tuned for updates! In the meantime, feel free to explore my projects and repositories. 😊</p>
+
+<hr>
+
+<h2>📫 Connect with Me</h2>
+
+<p>Let's connect and collaborate! You can reach me through the following platforms:</p>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  />
+  <a href="https://www.facebook.com/yourprofile">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  />
+  </a>
 </div>
 
+<hr>
+
+<p align="center">
+  <i>Thanks for visiting my profile! Have a great day! 😄</i>
+</p>
