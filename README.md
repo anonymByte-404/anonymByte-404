@@ -18,6 +18,13 @@
 
 <p>I'm an aspiring software engineer with a strong drive to learn and grow in the world of technology. I thrive on solving complex problems and creating efficient, scalable, and impactful applications. Based in an undisclosed location 🌍, I enjoy collaborating on exciting projects, contributing to open-source communities, and continuously expanding my skill set.</p>
 
+<ul>
+  <li>🎯 <b>Primary Language:</b> TypeScript & C++</li>
+  <li>💡 Passionate about problem-solving and algorithm optimization.</li>
+  <li>💻 Love working on open-source projects and software development.</li>
+  <li>📚 Always learning new technologies and frameworks.</li>
+</ul>
+
 <hr>
 
 <h2>🛠️ Skills & Technologies</h2>
@@ -58,7 +65,7 @@
 
 <h2>🌟 Top Projects</h2>
 
-Here are some of my favorite projects I've worked on:
+<p>Here are some of my favorite projects I've worked on:</p>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7ad2e21d-8839-46fe-877b-fa996770e0f2" height="150" />
