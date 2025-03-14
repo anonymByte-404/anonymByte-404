@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/static/v1?message=Dart&logo=dart&label=&color=0175C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dart logo" />
   <img src="https://img.shields.io/static/v1?message=Shell%20Script&logo=gnu-bash&label=&color=4EAA25&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="shell script logo" />
   <img src="https://img.shields.io/static/v1?message=Batch%20Script&logo=windows-terminal&label=&color=00A4EF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="batch script logo" />
+  <img src="https://img.shields.io/static/v1?message=GoLang&logo=go&label=&color=00ADD8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="golang logo" />
 </div>
 
 <h3>Frameworks & Tools</h3>
