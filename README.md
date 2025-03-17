@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="html logo"  />
   <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="css logo"  />
   <img src="https://img.shields.io/static/v1?message=Gradle&logo=gradle&label=&color=02303A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gradle logo"  />
+  <img src="https://img.shields.io/static/v1?message=Vim&logo=vim&label=&color=019733&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="vim logo" />
 </div>
 
 <hr>
